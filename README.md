@@ -3,11 +3,11 @@
 ## Provided dependencies
 <table>
     <tr>
-        <th>Command line arguments</th>
+        <th>Command Line Arguments</th>
         <td>Clara</td>
     </tr>
     <tr>
-        <th>Input</th>
+        <th>Input / Window Creation</th>
         <td>glfw</td>
     </tr>
     <tr>
